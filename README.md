@@ -2,4 +2,5 @@
 
 My own implementation of a ~~infamous~~famous ls UNIX utility, which lists files and their respective directories,
 and, I gotta say, original *ls* does have some juicy fucntionality hidden up its sleeve;)
-<h1>to be continued</h1>~~**(no)**~~
+# to be continued
+~~**(No)**~~
