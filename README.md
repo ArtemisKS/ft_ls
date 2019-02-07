@@ -31,8 +31,8 @@ In order to get an optimal time while recursively sorting directories and files 
 I implemented `quicksort`, which was a bit of a tricky part given different parameters
 of sorting are possible.
 
-Besides, I've done a locale switch when printing time in `-l` mode
-by reading environment variable. Very simple, but fancy😏
+Besides, I've done a locale switch when printing time in `-l` mode by reading environment variable.  
+Very simple, but fancy😏
 
 Yep, there's also pretty neat moment of printing `block` & `char` devices  
 For instance, when you launch ```./ft_ls -laG /dev```, you get interesting stuff going on
