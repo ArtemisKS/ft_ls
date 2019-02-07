@@ -16,7 +16,7 @@ To get the executable `ft_ls`, simply run ```make```
 usage: ./ft_ls [-AGRadefgilprstu1@] [file ...]
 ```
 
-Program's behaviour is almost identical to `md5`, only lacking some of the flags.
+Program's behaviour is almost identical to `ls`, only lacking some of the flags.
 And, I gotta say, original ```ls``` does have some juicy fucntionality hidden up its sleeve, so
 
 ```
