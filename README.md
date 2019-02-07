@@ -27,16 +27,16 @@ man ls
 
 ## Features
 
-In order to get an optimal time while recursively sorting directories and files in them  
-I implemented `quicksort`, which was a bit of a tricky part given different parameters  
+In order to get an optimal time while recursively sorting directories and files in them 
+I implemented `quicksort`, which was a bit of a tricky part given different parameters 
 of sorting are possible.
 
 Besides, I've done a locale switch when printing time in `-l` mode  
 by reading environment variable. Very simple, but fancy😏
 
 Yep, there's also pretty neat moment of printing `block` & `char` devices  
-For instance, when you launch ```./ft_ls -laG /dev```, you get interesting stuff going on  
-with some of the files marked with `c` or `b`. To learn more about it, I recommend googling  
+For instance, when you launch ```./ft_ls -laG /dev```, you get interesting stuff going on 
+with some of the files marked with `c` or `b`. To learn more about it, I recommend googling 
 
 ```
 char and block devices unix
